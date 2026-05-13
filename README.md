@@ -167,7 +167,7 @@ If you use this repository in academic work, please cite the related Master's Th
 ---
 
 ## Author
-Türkan, A. (2026). P-Core / E-Core Performance Analysis... 
+Türkan, A. (2026). PARALLELİZATİON OF IMAGE ENHANCEMENT METHODS ON GPU BASED SYSTEMS... 
 Bolu Abant İzzet Baysal University, Master Thesis.
 
 Türkçe dokümantasyon için: [README_TR.md](README_TR.md)
