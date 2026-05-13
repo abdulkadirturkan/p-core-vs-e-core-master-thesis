@@ -1,0 +1,420 @@
+===========================================
+Core: P-Core | Filter: mean | Radius: 3 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  0.508878 s
+  Max:  0.687528 s
+  Avg:  .515397 s
+  Std:  0.017494 s
+Wall-clock time:
+  Min:  1.140536 s
+  Max:  1.326462 s
+  Avg:  1.152640 s
+  Std:  0.019238 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 3 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  0.273173 s
+  Max:  0.39195 s
+  Avg:  .276177 s
+  Std:  0.011666 s
+Wall-clock time:
+  Min:  .900198 s
+  Max:  1.053719 s
+  Avg:  .913640 s
+  Std:  0.015136 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 3 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  0.192341 s
+  Max:  0.205831 s
+  Avg:  .194050 s
+  Std:  0.001453 s
+Wall-clock time:
+  Min:  .821887 s
+  Max:  .844274 s
+  Avg:  .831178 s
+  Std:  0.005130 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 3 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  0.152855 s
+  Max:  0.200074 s
+  Avg:  .156675 s
+  Std:  0.006240 s
+Wall-clock time:
+  Min:  .781243 s
+  Max:  .858458 s
+  Avg:  .794704 s
+  Std:  0.010992 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 3 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  0.152956 s
+  Max:  0.175467 s
+  Avg:  .155623 s
+  Std:  0.004223 s
+Wall-clock time:
+  Min:  .759081 s
+  Max:  .802998 s
+  Avg:  .769216 s
+  Std:  0.006275 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 3 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  0.155368 s
+  Max:  0.183451 s
+  Avg:  .172608 s
+  Std:  0.006437 s
+Wall-clock time:
+  Min:  .786368 s
+  Max:  .826367 s
+  Avg:  .808198 s
+  Std:  0.007808 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 7 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  2.18553 s
+  Max:  2.2372 s
+  Avg:  2.210309 s
+  Std:  0.009487 s
+Wall-clock time:
+  Min:  2.814801 s
+  Max:  2.993556 s
+  Avg:  2.896278 s
+  Std:  0.037012 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 7 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  1.1247 s
+  Max:  1.34621 s
+  Avg:  1.150247 s
+  Std:  0.035025 s
+Wall-clock time:
+  Min:  1.751510 s
+  Max:  1.981392 s
+  Avg:  1.782180 s
+  Std:  0.035753 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 7 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  0.770233 s
+  Max:  0.992422 s
+  Avg:  .795784 s
+  Std:  0.035352 s
+Wall-clock time:
+  Min:  1.397237 s
+  Max:  1.630118 s
+  Avg:  1.426249 s
+  Std:  0.036218 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 7 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  0.590812 s
+  Max:  0.8033 s
+  Avg:  .626004 s
+  Std:  0.051425 s
+Wall-clock time:
+  Min:  1.223583 s
+  Max:  1.438176 s
+  Avg:  1.257706 s
+  Std:  0.052042 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 7 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  0.591143 s
+  Max:  0.639318 s
+  Avg:  .603225 s
+  Std:  0.009767 s
+Wall-clock time:
+  Min:  1.195937 s
+  Max:  1.296606 s
+  Avg:  1.212991 s
+  Std:  0.017664 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 7 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  0.607093 s
+  Max:  0.840851 s
+  Avg:  .653222 s
+  Std:  0.051636 s
+Wall-clock time:
+  Min:  1.234837 s
+  Max:  1.474585 s
+  Avg:  1.283800 s
+  Std:  0.052403 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 11 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  4.96703 s
+  Max:  5.07649 s
+  Avg:  5.033507 s
+  Std:  0.018517 s
+Wall-clock time:
+  Min:  5.593412 s
+  Max:  5.782110 s
+  Avg:  5.674252 s
+  Std:  0.031471 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 11 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  2.54442 s
+  Max:  2.85071 s
+  Avg:  2.642071 s
+  Std:  0.080720 s
+Wall-clock time:
+  Min:  3.170143 s
+  Max:  3.570970 s
+  Avg:  3.340645 s
+  Std:  0.087660 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 11 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  1.73437 s
+  Max:  2.2049 s
+  Avg:  1.836835 s
+  Std:  0.089319 s
+Wall-clock time:
+  Min:  2.371016 s
+  Max:  2.837532 s
+  Avg:  2.525219 s
+  Std:  0.099688 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 11 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  1.35419 s
+  Max:  1.78192 s
+  Avg:  1.430484 s
+  Std:  0.087478 s
+Wall-clock time:
+  Min:  1.977994 s
+  Max:  2.493785 s
+  Avg:  2.113789 s
+  Std:  0.099824 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 11 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  1.35421 s
+  Max:  1.78804 s
+  Avg:  1.396056 s
+  Std:  0.064601 s
+Wall-clock time:
+  Min:  1.960196 s
+  Max:  2.475216 s
+  Avg:  2.054154 s
+  Std:  0.083366 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 11 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  1.38285 s
+  Max:  1.85292 s
+  Avg:  1.499856 s
+  Std:  0.114573 s
+Wall-clock time:
+  Min:  2.008665 s
+  Max:  2.560471 s
+  Avg:  2.172594 s
+  Std:  0.120841 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 15 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  9.08322 s
+  Max:  9.34419 s
+  Avg:  9.149723 s
+  Std:  0.049182 s
+Wall-clock time:
+  Min:  9.705380 s
+  Max:  9.994343 s
+  Avg:  9.820108 s
+  Std:  0.063677 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 15 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  4.62625 s
+  Max:  4.95505 s
+  Avg:  4.773094 s
+  Std:  0.075369 s
+Wall-clock time:
+  Min:  5.234246 s
+  Max:  5.599525 s
+  Avg:  5.398875 s
+  Std:  0.080196 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 15 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  3.20675 s
+  Max:  3.66154 s
+  Avg:  3.393357 s
+  Std:  0.114575 s
+Wall-clock time:
+  Min:  3.822061 s
+  Max:  4.341059 s
+  Avg:  4.066324 s
+  Std:  0.122469 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 15 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  2.47869 s
+  Max:  3.09711 s
+  Avg:  2.707433 s
+  Std:  0.118349 s
+Wall-clock time:
+  Min:  3.154975 s
+  Max:  3.798413 s
+  Avg:  3.376426 s
+  Std:  0.123438 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 15 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  2.50774 s
+  Max:  2.82107 s
+  Avg:  2.656075 s
+  Std:  0.103649 s
+Wall-clock time:
+  Min:  3.108652 s
+  Max:  3.505286 s
+  Avg:  3.295874 s
+  Std:  0.114504 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 15 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  2.60011 s
+  Max:  3.26011 s
+  Avg:  2.829283 s
+  Std:  0.120144 s
+Wall-clock time:
+  Min:  3.211554 s
+  Max:  3.870328 s
+  Avg:  3.491256 s
+  Std:  0.122483 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 19 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  14.7319 s
+  Max:  15.1276 s
+  Avg:  14.863021 s
+  Std:  0.071162 s
+Wall-clock time:
+  Min:  15.342430 s
+  Max:  15.727502 s
+  Avg:  15.495374 s
+  Std:  0.083334 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 19 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  7.6254 s
+  Max:  8.133 s
+  Avg:  7.812880 s
+  Std:  0.108520 s
+Wall-clock time:
+  Min:  8.226069 s
+  Max:  8.829081 s
+  Avg:  8.465175 s
+  Std:  0.121129 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 19 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  5.39478 s
+  Max:  5.78809 s
+  Avg:  5.567666 s
+  Std:  0.094066 s
+Wall-clock time:
+  Min:  5.994905 s
+  Max:  6.392596 s
+  Avg:  6.177180 s
+  Std:  0.097374 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 19 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  4.11879 s
+  Max:  4.65474 s
+  Avg:  4.395351 s
+  Std:  0.115090 s
+Wall-clock time:
+  Min:  4.785617 s
+  Max:  5.296233 s
+  Avg:  5.038838 s
+  Std:  0.107219 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 19 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  4.1204 s
+  Max:  4.79949 s
+  Avg:  4.366612 s
+  Std:  0.113083 s
+Wall-clock time:
+  Min:  4.708316 s
+  Max:  5.410952 s
+  Avg:  4.998882 s
+  Std:  0.120201 s
+
+===========================================
+Core: P-Core | Filter: mean | Radius: 19 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  4.24287 s
+  Max:  4.76849 s
+  Avg:  4.565345 s
+  Std:  0.111729 s
+Wall-clock time:
+  Min:  4.938718 s
+  Max:  5.397414 s
+  Avg:  5.194743 s
+  Std:  0.096715 s
+

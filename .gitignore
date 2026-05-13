@@ -25,14 +25,6 @@ compile_commands.json
 *.so
 *.a
 
-# Logs
-
-# vtune_results
-vtune_results/
-*.vtune
-*.amplxe
-*.tb6
-
 # OS files
 .DS_Store
 Thumbs.db

@@ -1,0 +1,42 @@
+Hierarchy Level	Metric Name	Metric Value
+0	Elapsed Time	2.110075
+1	CPU Time	8.611423
+1	Performance-core (P-core)	
+2	Memory Bound	0.0
+3	L1 Bound	0.0
+3	L2 Bound	0.0
+3	L3 Bound	0.0
+3	DRAM Bound	0.0
+3	Store Bound	0.0
+1	Efficient-core (E-core)	
+2	Memory Bound	1.6
+3	L1 Bound	0.2
+3	L2 Bound	0.6
+3	L3 Bound	0.0
+3	DRAM Bound	0.3
+1	Uncore	
+2	DRAM Bandwidth Bound	0.0
+1	Loads	25869870257
+1	Stores	1300138845
+1	LLC Miss Count	1046870
+1	Total Thread Count	10
+1	Paused Time	0.0
+0	Bandwidth Utilization	
+0	Bandwidth Domain	Platform Maximum	Observed Maximum	Average	% of Elapsed Time with High BW Utilization(%)
+0	DRAM, GB/sec	73.000000	14.900000	1.165836	0.0
+0	Collection and Platform Info	
+1	Application Command Line	taskset "-c" "16-27" "./bin/gaussian" "7" "8" 
+1	Operating System	6.17.0-14-generic DISTRIB_ID=Ubuntu DISTRIB_RELEASE=24.04 DISTRIB_CODENAME=noble DISTRIB_DESCRIPTION="Ubuntu 24.04.4 LTS"
+1	Computer Name	abdulkadirt
+1	Result Size	47312405
+1	Collection start time	15:16:27 11/03/2026 UTC
+1	Collection stop time	15:16:29 11/03/2026 UTC
+1	Collector Type	Driverless Perf system-wide sampling
+1	CPU	
+2	Name	Intel(R) microarchitecture code named Raptorlake-DT
+2	Frequency	3417599967
+2	Logical CPU Count	28
+2	Max DRAM Single-Package Bandwidth	73000000000.000000
+2	Cache Allocation Technology	
+3	Level 2 capability	not detected
+3	Level 3 capability	not detected
