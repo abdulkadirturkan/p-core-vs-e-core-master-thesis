@@ -39,5 +39,4 @@ vtune/
 Thumbs.db
 
 # Large benchmark outputs
-*.csv
 *.tmp
