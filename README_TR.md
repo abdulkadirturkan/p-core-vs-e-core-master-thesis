@@ -158,4 +158,5 @@ Bu çalışma:
 
 ## Atıf
 
-Bu çalışmayı akademik araştırmalarda kullanmanız durumunda ilgili yüksek lisans tezine atıf yapmanız rica olunur.
+Türkan, A. (2026). Görüntü İyileştirme Yöntemlerinin GPU Tabanlı Sistemlerde Paralelleştirilmesi. 
+Yüksek Lisans Tezi, Bolu Abant İzzet Baysal Üniversitesi, Bilgisayar Mühendisliği Ana Bilim Dalı.
