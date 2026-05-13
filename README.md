@@ -167,6 +167,7 @@ If you use this repository in academic work, please cite the related Master's Th
 ---
 
 ## Author
-Abdulkadir TÜRKAN
+Türkan, A. (2026). P-Core / E-Core Performance Analysis... 
+Bolu Abant İzzet Baysal University, Master Thesis.
 
 Türkçe dokümantasyon için: [README_TR.md](README_TR.md)
