@@ -1,0 +1,43 @@
+# Build folders
+build/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# CLion / IntelliJ
+.idea/
+
+# VSCode
+.vscode/
+
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.a
+
+# Logs
+*.log
+
+# VTune
+vtune/
+*.vtune
+*.amplxe
+*.tb6
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large benchmark outputs
+*.csv
+*.tmp
