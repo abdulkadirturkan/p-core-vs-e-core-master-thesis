@@ -140,7 +140,8 @@ g++ main.cpp -O3 -march=native -fopenmp -fopenmp-simd -o benchmark
 ├── logs/                 # Çıktı raporları
 ├── run_gaussian_vtune.sh # VTune profiler ile birlikte Gauss filtresi çalıştırma scripti
 ├── run_mean_vtune.sh     # VTune profiler ile birlikte Ortalama filtresi çalıştırma scripti
-└── README.md
+├── README.md             # İngilizce Açıklama
+└── README_TR.md          # Türkçe Açıklama
 ```
 
 ---
