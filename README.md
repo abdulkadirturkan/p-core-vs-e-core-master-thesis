@@ -145,7 +145,8 @@ Example:
 ├── logs/                 # Output reports
 ├── run_gaussian_vtune.sh # Gaussian filter run with VTune profiler
 ├── run_mean_vtune.sh     # Mean filter run with VTune profiler
-└── README.md
+├── README.md             # Read Me
+└── README_TR.md          # Read Me in Turkish
 ```
 
 ---
