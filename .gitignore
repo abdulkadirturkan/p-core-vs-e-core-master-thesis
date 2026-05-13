@@ -26,10 +26,9 @@ compile_commands.json
 *.a
 
 # Logs
-*.log
 
-# VTune
-vtune/
+# vtune_results
+vtune_results/
 *.vtune
 *.amplxe
 *.tb6

@@ -1,0 +1,423 @@
+Using core type: E
+OMP_PLACES: {16,17,18,19,20,21,22,23,24,25,26,27}
+
+===========================================
+Filter: gaussian | Radius: 3 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  0.521525 s
+  Max:  1.26305 s
+  Avg:  .555674 s
+  Std:  0.095372 s
+Wall-clock time:
+  Min:  1.183757 s
+  Max:  2.565245 s
+  Avg:  1.252189 s
+  Std:  0.192254 s
+
+===========================================
+Filter: gaussian | Radius: 3 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  0.282227 s
+  Max:  0.305341 s
+  Avg:  .288034 s
+  Std:  0.004740 s
+Wall-clock time:
+  Min:  .937553 s
+  Max:  .990056 s
+  Avg:  .957991 s
+  Std:  0.009703 s
+
+===========================================
+Filter: gaussian | Radius: 3 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  0.198945 s
+  Max:  0.2232 s
+  Avg:  .208426 s
+  Std:  0.004469 s
+Wall-clock time:
+  Min:  .855674 s
+  Max:  .900305 s
+  Avg:  .876685 s
+  Std:  0.009263 s
+
+===========================================
+Filter: gaussian | Radius: 3 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  0.162701 s
+  Max:  0.192604 s
+  Avg:  .169451 s
+  Std:  0.004862 s
+Wall-clock time:
+  Min:  .818219 s
+  Max:  .874442 s
+  Avg:  .837999 s
+  Std:  0.009850 s
+
+===========================================
+Filter: gaussian | Radius: 3 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  0.145622 s
+  Max:  0.163966 s
+  Avg:  .151208 s
+  Std:  0.004042 s
+Wall-clock time:
+  Min:  .802011 s
+  Max:  .843570 s
+  Avg:  .821079 s
+  Std:  0.009484 s
+
+===========================================
+Filter: gaussian | Radius: 3 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  0.133361 s
+  Max:  0.146544 s
+  Avg:  .138235 s
+  Std:  0.002651 s
+Wall-clock time:
+  Min:  .790203 s
+  Max:  .838561 s
+  Avg:  .808575 s
+  Std:  0.009910 s
+
+===========================================
+Filter: gaussian | Radius: 7 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  2.13718 s
+  Max:  2.37974 s
+  Avg:  2.165965 s
+  Std:  0.024537 s
+Wall-clock time:
+  Min:  2.795533 s
+  Max:  3.120948 s
+  Avg:  2.890144 s
+  Std:  0.042325 s
+
+===========================================
+Filter: gaussian | Radius: 7 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  1.10287 s
+  Max:  1.22218 s
+  Avg:  1.124149 s
+  Std:  0.020953 s
+Wall-clock time:
+  Min:  1.753054 s
+  Max:  1.885267 s
+  Avg:  1.789843 s
+  Std:  0.023266 s
+
+===========================================
+Filter: gaussian | Radius: 7 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  0.751772 s
+  Max:  0.885925 s
+  Avg:  .768454 s
+  Std:  0.017808 s
+Wall-clock time:
+  Min:  1.403948 s
+  Max:  1.551478 s
+  Avg:  1.433995 s
+  Std:  0.019676 s
+
+===========================================
+Filter: gaussian | Radius: 7 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  0.586792 s
+  Max:  0.720585 s
+  Avg:  .607660 s
+  Std:  0.024516 s
+Wall-clock time:
+  Min:  1.234010 s
+  Max:  1.382612 s
+  Avg:  1.269461 s
+  Std:  0.028414 s
+
+===========================================
+Filter: gaussian | Radius: 7 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  0.521961 s
+  Max:  0.652714 s
+  Avg:  .544036 s
+  Std:  0.030428 s
+Wall-clock time:
+  Min:  1.174158 s
+  Max:  1.351543 s
+  Avg:  1.211795 s
+  Std:  0.039811 s
+
+===========================================
+Filter: gaussian | Radius: 7 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  0.470688 s
+  Max:  0.627942 s
+  Avg:  .490560 s
+  Std:  0.034652 s
+Wall-clock time:
+  Min:  1.119781 s
+  Max:  1.300366 s
+  Avg:  1.159589 s
+  Std:  0.046998 s
+
+===========================================
+Filter: gaussian | Radius: 11 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  4.81902 s
+  Max:  5.4238 s
+  Avg:  4.923462 s
+  Std:  0.111822 s
+Wall-clock time:
+  Min:  5.506533 s
+  Max:  6.237909 s
+  Avg:  5.622192 s
+  Std:  0.119324 s
+
+===========================================
+Filter: gaussian | Radius: 11 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  2.47244 s
+  Max:  2.7883 s
+  Avg:  2.563857 s
+  Std:  0.068440 s
+Wall-clock time:
+  Min:  3.134454 s
+  Max:  3.526939 s
+  Avg:  3.296134 s
+  Std:  0.073696 s
+
+===========================================
+Filter: gaussian | Radius: 11 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  1.69394 s
+  Max:  2.13748 s
+  Avg:  1.761854 s
+  Std:  0.066434 s
+Wall-clock time:
+  Min:  2.375029 s
+  Max:  2.888091 s
+  Avg:  2.493581 s
+  Std:  0.078144 s
+
+===========================================
+Filter: gaussian | Radius: 11 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  1.3193 s
+  Max:  1.69769 s
+  Avg:  1.407311 s
+  Std:  0.101441 s
+Wall-clock time:
+  Min:  1.968317 s
+  Max:  2.439076 s
+  Avg:  2.136989 s
+  Std:  0.112938 s
+
+===========================================
+Filter: gaussian | Radius: 11 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  1.18856 s
+  Max:  1.53477 s
+  Avg:  1.275253 s
+  Std:  0.079338 s
+Wall-clock time:
+  Min:  1.844756 s
+  Max:  2.294488 s
+  Avg:  1.967874 s
+  Std:  0.115987 s
+
+===========================================
+Filter: gaussian | Radius: 11 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  1.07124 s
+  Max:  1.41527 s
+  Avg:  1.133909 s
+  Std:  0.074432 s
+Wall-clock time:
+  Min:  1.723031 s
+  Max:  2.169903 s
+  Avg:  1.806900 s
+  Std:  0.093543 s
+
+===========================================
+Filter: gaussian | Radius: 15 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  8.66329 s
+  Max:  9.53414 s
+  Avg:  8.775041 s
+  Std:  0.093499 s
+Wall-clock time:
+  Min:  9.307213 s
+  Max:  10.190384 s
+  Avg:  9.499598 s
+  Std:  0.094177 s
+
+===========================================
+Filter: gaussian | Radius: 15 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  4.42296 s
+  Max:  4.88235 s
+  Avg:  4.555849 s
+  Std:  0.094171 s
+Wall-clock time:
+  Min:  5.077922 s
+  Max:  5.674317 s
+  Avg:  5.241672 s
+  Std:  0.103372 s
+
+===========================================
+Filter: gaussian | Radius: 15 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  3.04598 s
+  Max:  3.4751 s
+  Avg:  3.252563 s
+  Std:  0.120635 s
+Wall-clock time:
+  Min:  3.696008 s
+  Max:  4.209156 s
+  Avg:  3.971048 s
+  Std:  0.123531 s
+
+===========================================
+Filter: gaussian | Radius: 15 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  2.37108 s
+  Max:  2.84535 s
+  Avg:  2.546694 s
+  Std:  0.122029 s
+Wall-clock time:
+  Min:  3.070106 s
+  Max:  3.572627 s
+  Avg:  3.266914 s
+  Std:  0.129729 s
+
+===========================================
+Filter: gaussian | Radius: 15 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  2.18857 s
+  Max:  2.59288 s
+  Avg:  2.284338 s
+  Std:  0.086608 s
+Wall-clock time:
+  Min:  2.848839 s
+  Max:  3.329946 s
+  Avg:  3.009357 s
+  Std:  0.089534 s
+
+===========================================
+Filter: gaussian | Radius: 15 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  1.98503 s
+  Max:  2.42106 s
+  Avg:  2.080104 s
+  Std:  0.097971 s
+Wall-clock time:
+  Min:  2.638503 s
+  Max:  3.148659 s
+  Avg:  2.800413 s
+  Std:  0.107479 s
+
+===========================================
+Filter: gaussian | Radius: 19 | Threads: 2
+Runs: 100
+Program-reported time:
+  Min:  13.8043 s
+  Max:  15.2138 s
+  Avg:  13.954179 s
+  Std:  0.146385 s
+Wall-clock time:
+  Min:  14.467218 s
+  Max:  15.939448 s
+  Avg:  14.670609 s
+  Std:  0.150278 s
+
+===========================================
+Filter: gaussian | Radius: 19 | Threads: 4
+Runs: 100
+Program-reported time:
+  Min:  7.10471 s
+  Max:  7.64416 s
+  Avg:  7.260756 s
+  Std:  0.087469 s
+Wall-clock time:
+  Min:  7.746344 s
+  Max:  8.372881 s
+  Avg:  7.954963 s
+  Std:  0.106301 s
+
+===========================================
+Filter: gaussian | Radius: 19 | Threads: 6
+Runs: 100
+Program-reported time:
+  Min:  4.92634 s
+  Max:  5.41217 s
+  Avg:  5.112741 s
+  Std:  0.097385 s
+Wall-clock time:
+  Min:  5.598121 s
+  Max:  6.176746 s
+  Avg:  5.778896 s
+  Std:  0.098167 s
+
+===========================================
+Filter: gaussian | Radius: 19 | Threads: 8
+Runs: 100
+Program-reported time:
+  Min:  3.88967 s
+  Max:  4.29409 s
+  Avg:  4.037052 s
+  Std:  0.086721 s
+Wall-clock time:
+  Min:  4.538018 s
+  Max:  5.023005 s
+  Avg:  4.755904 s
+  Std:  0.094225 s
+
+===========================================
+Filter: gaussian | Radius: 19 | Threads: 10
+Runs: 100
+Program-reported time:
+  Min:  3.53935 s
+  Max:  3.91896 s
+  Avg:  3.667568 s
+  Std:  0.098255 s
+Wall-clock time:
+  Min:  4.182643 s
+  Max:  4.644487 s
+  Avg:  4.381110 s
+  Std:  0.105197 s
+
+===========================================
+Filter: gaussian | Radius: 19 | Threads: 12
+Runs: 100
+Program-reported time:
+  Min:  3.21892 s
+  Max:  3.68046 s
+  Avg:  3.331109 s
+  Std:  0.109690 s
+Wall-clock time:
+  Min:  3.870013 s
+  Max:  4.411055 s
+  Avg:  4.053988 s
+  Std:  0.109301 s
+
